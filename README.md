@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/meeraraveendran006/leetcode/tree/master/0069-sqrtx) |
+| [0282-expression-add-operators](https://github.com/meeraraveendran006/leetcode/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/meeraraveendran006/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/meeraraveendran006/leetcode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/meeraraveendran006/leetcode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/meeraraveendran006/leetcode/tree/master/0205-isomorphic-strings) |
+| [0282-expression-add-operators](https://github.com/meeraraveendran006/leetcode/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/meeraraveendran006/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/meeraraveendran006/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/meeraraveendran006/leetcode/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/meeraraveendran006/leetcode/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
