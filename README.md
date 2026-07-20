@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meeraraveendran006/leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/meeraraveendran006/leetcode/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/meeraraveendran006/leetcode/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/meeraraveendran006/leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
