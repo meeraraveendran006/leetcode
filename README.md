@@ -43,8 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/meeraraveendran006/leetcode/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/meeraraveendran006/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/meeraraveendran006/leetcode/tree/master/0205-isomorphic-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/meeraraveendran006/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/meeraraveendran006/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
