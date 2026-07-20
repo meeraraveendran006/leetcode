@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/meeraraveendran006/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meeraraveendran006/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/meeraraveendran006/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/meeraraveendran006/leetcode/tree/master/0037-sudoku-solver) |
 | [0075-sort-colors](https://github.com/meeraraveendran006/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/meeraraveendran006/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/meeraraveendran006/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meeraraveendran006/leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/meeraraveendran006/leetcode/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/meeraraveendran006/leetcode/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/meeraraveendran006/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/meeraraveendran006/leetcode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
@@ -72,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/meeraraveendran006/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/meeraraveendran006/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
