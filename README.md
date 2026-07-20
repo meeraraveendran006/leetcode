@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/meeraraveendran006/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/meeraraveendran006/leetcode/tree/master/0069-sqrtx) |
 | [0282-expression-add-operators](https://github.com/meeraraveendran006/leetcode/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/meeraraveendran006/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/meeraraveendran006/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/meeraraveendran006/leetcode/tree/master/0079-word-search) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/meeraraveendran006/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
