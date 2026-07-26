@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meeraraveendran006/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/meeraraveendran006/leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/meeraraveendran006/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/meeraraveendran006/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/meeraraveendran006/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/meeraraveendran006/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/meeraraveendran006/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/meeraraveendran006/leetcode/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/meeraraveendran006/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/meeraraveendran006/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/meeraraveendran006/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/meeraraveendran006/leetcode/tree/master/0069-sqrtx) |
 | [0282-expression-add-operators](https://github.com/meeraraveendran006/leetcode/tree/master/0282-expression-add-operators) |
+| [0628-maximum-product-of-three-numbers](https://github.com/meeraraveendran006/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/meeraraveendran006/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/meeraraveendran006/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
