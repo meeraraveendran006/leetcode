@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/meeraraveendran006/leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/meeraraveendran006/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/meeraraveendran006/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1406-stone-game-iii](https://github.com/meeraraveendran006/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meeraraveendran006/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/meeraraveendran006/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/meeraraveendran006/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/meeraraveendran006/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/meeraraveendran006/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/meeraraveendran006/leetcode/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/meeraraveendran006/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/meeraraveendran006/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/meeraraveendran006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -154,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/meeraraveendran006/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/meeraraveendran006/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/meeraraveendran006/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/meeraraveendran006/leetcode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/meeraraveendran006/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/meeraraveendran006/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/meeraraveendran006/leetcode/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/meeraraveendran006/leetcode/tree/master/0410-split-array-largest-sum) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/meeraraveendran006/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/meeraraveendran006/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
