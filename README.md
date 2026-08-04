@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/meeraraveendran006/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meeraraveendran006/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/meeraraveendran006/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [3731-find-missing-elements](https://github.com/meeraraveendran006/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/meeraraveendran006/leetcode/tree/master/0205-isomorphic-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/meeraraveendran006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/meeraraveendran006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/meeraraveendran006/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/meeraraveendran006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/meeraraveendran006/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/meeraraveendran006/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/meeraraveendran006/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
