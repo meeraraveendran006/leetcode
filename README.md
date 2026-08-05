@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/meeraraveendran006/leetcode/tree/master/0079-word-search) |
+| [3310-remove-methods-from-project](https://github.com/meeraraveendran006/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -185,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/meeraraveendran006/leetcode/tree/master/1406-stone-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/meeraraveendran006/leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/meeraraveendran006/leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
