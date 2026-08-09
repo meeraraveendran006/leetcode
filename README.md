@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meeraraveendran006/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/meeraraveendran006/leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/meeraraveendran006/leetcode/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/meeraraveendran006/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/meeraraveendran006/leetcode/tree/master/0242-valid-anagram) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/meeraraveendran006/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/meeraraveendran006/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/meeraraveendran006/leetcode/tree/master/0069-sqrtx) |
 | [0282-expression-add-operators](https://github.com/meeraraveendran006/leetcode/tree/master/0282-expression-add-operators) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/meeraraveendran006/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/meeraraveendran006/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/meeraraveendran006/leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/meeraraveendran006/leetcode/tree/master/0079-word-search) |
