@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/meeraraveendran006/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/meeraraveendran006/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/meeraraveendran006/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/meeraraveendran006/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/meeraraveendran006/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/meeraraveendran006/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/meeraraveendran006/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/meeraraveendran006/leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/meeraraveendran006/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/meeraraveendran006/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/meeraraveendran006/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/meeraraveendran006/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/meeraraveendran006/leetcode/tree/master/0242-valid-anagram) |
