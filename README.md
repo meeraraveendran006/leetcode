@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meeraraveendran006/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/meeraraveendran006/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/meeraraveendran006/leetcode/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/meeraraveendran006/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/meeraraveendran006/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/meeraraveendran006/leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/meeraraveendran006/leetcode/tree/master/1872-stone-game-viii) |
+| [3904-smallest-stable-index-ii](https://github.com/meeraraveendran006/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Minimax
 |  |
 | ------- |
